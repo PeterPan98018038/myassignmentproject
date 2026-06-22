@@ -37,7 +37,7 @@ def setup_database():
 
 def insert_test_data():
     test_data = [
-        ("Alice Chan", 50),
+        ("Alice Chan", 70),
         ("Johny Pan", 84),
         ("Mary Cheung", 84),
         ("Carie Lee", 63),
